@@ -1,3 +1,0 @@
-# ignorar dependências e cache
-**/node_modules/
-**/.cache/
