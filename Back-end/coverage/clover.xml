@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1751563135980" clover="3.2.0">
-  <project timestamp="1751563135981" name="All files">
-    <metrics statements="91" coveredstatements="49" conditionals="12" coveredconditionals="1" methods="17" coveredmethods="5" elements="120" coveredelements="55" complexity="0" loc="91" ncloc="91" packages="8" files="8" classes="8"/>
+<coverage generated="1751826733877" clover="3.2.0">
+  <project timestamp="1751826733877" name="All files">
+    <metrics statements="91" coveredstatements="51" conditionals="12" coveredconditionals="1" methods="17" coveredmethods="6" elements="120" coveredelements="58" complexity="0" loc="91" ncloc="91" packages="8" files="8" classes="8"/>
     <package name="src">
-      <metrics statements="11" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+      <metrics statements="11" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
       <file name="index.ts" path="C:\Users\renan\OneDrive\Documentos\FACULDADE\Tech Challenge 2\Back-end\src\index.ts">
-        <metrics statements="11" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+        <metrics statements="11" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
         <line num="4" count="1" type="stmt"/>
         <line num="6" count="1" type="stmt"/>
         <line num="8" count="1" type="stmt"/>
-        <line num="10" count="0" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
         <line num="11" count="0" type="stmt"/>
         <line num="13" count="1" type="stmt"/>
         <line num="14" count="1" type="stmt"/>
@@ -31,14 +31,14 @@
       </file>
     </package>
     <package name="src.controllers">
-      <metrics statements="33" coveredstatements="8" conditionals="4" coveredconditionals="0" methods="5" coveredmethods="1"/>
+      <metrics statements="33" coveredstatements="9" conditionals="4" coveredconditionals="0" methods="5" coveredmethods="1"/>
       <file name="postController.ts" path="C:\Users\renan\OneDrive\Documentos\FACULDADE\Tech Challenge 2\Back-end\src\controllers\postController.ts">
-        <metrics statements="33" coveredstatements="8" conditionals="4" coveredconditionals="0" methods="5" coveredmethods="1"/>
+        <metrics statements="33" coveredstatements="9" conditionals="4" coveredconditionals="0" methods="5" coveredmethods="1"/>
         <line num="2" count="1" type="stmt"/>
         <line num="4" count="1" type="stmt"/>
         <line num="5" count="1" type="stmt"/>
         <line num="6" count="1" type="stmt"/>
-        <line num="7" count="0" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
         <line num="9" count="0" type="stmt"/>
         <line num="13" count="1" type="stmt"/>
         <line num="14" count="0" type="stmt"/>
